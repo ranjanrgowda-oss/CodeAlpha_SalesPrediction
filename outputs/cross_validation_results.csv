@@ -1,0 +1,5 @@
+Model,CV_RMSE,Best Parameters
+Gradient Boosting,0.8065849964160003,"{'model__learning_rate': 0.1, 'model__n_estimators': 100}"
+Random Forest,0.8071541429882128,"{'model__max_depth': None, 'model__n_estimators': 200}"
+Linear Regression,1.6820526567367264,{}
+Ridge Regression,1.682248568589553,{'model__alpha': 0.1}
